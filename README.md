@@ -1,5 +1,4 @@
-# 안녕하세요 👋
-
+# Thank you for visiting my Github profile. 👋
 
 
 <!--
