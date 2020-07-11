@@ -3,7 +3,7 @@
 [![Twitter Followers](https://img.shields.io/twitter/follow/zeroday_0619?color=118ab2&label=Twitter%20Followers&style=for-the-badge)](https://twitter.com/zeroday_0619/followers)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/zeroday0619?color=ef476f&label=Keybase%20PGP&style=for-the-badge)](https://keybase.io/zeroday0619)
 
-I am a high school student and Back-End developer.
+I am a high school student and back-end developer.
 
 ## 🌱 I’m currently learning ...
 - object oriented programming
