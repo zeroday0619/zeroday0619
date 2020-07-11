@@ -5,14 +5,16 @@
 
 I am a high school student and back-end developer.
 
-## 🌱 I’m currently learning ...
-- Python
-  - object oriented programming
-  - concurrency programming
 
 **Languages and Tools**:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+
+## 🌱 I’m currently learning ...
+- Python
+  - object oriented programming
+  - concurrency programming
 
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
 
