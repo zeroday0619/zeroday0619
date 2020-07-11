@@ -3,7 +3,7 @@
 [![Twitter Followers](https://img.shields.io/twitter/follow/zeroday_0619?color=118ab2&label=Twitter%20Followers&style=for-the-badge)](https://twitter.com/zeroday_0619/followers)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/zeroday0619?color=ef476f&label=Keybase%20PGP&style=for-the-badge)](https://keybase.io/zeroday0619)
 
-프로그래밍을 통해 더 편리한 세상을 만들고 싶은 고등학생 Back-End 개발자 차의서입니다.
+I am a high school student and Back-End developer.
 
 ## 🌱 I’m currently learning ...
 - object oriented programming
