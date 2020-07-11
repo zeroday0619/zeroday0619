@@ -5,11 +5,11 @@
 
 프로그래밍을 통해 더 편리한 세상을 만들고 싶은 고등학생 Back-End 개발자 차의서입니다.
 
+[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true)](https://github.com/zeroday0619)
+
 ## 🌱 I’m currently learning ...
 - object oriented programming
 - concurrency programming
-------------------------
-[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true)](https://github.com/zeroday0619)
 
 
 <!--
