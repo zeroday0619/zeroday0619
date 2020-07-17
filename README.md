@@ -13,9 +13,12 @@ I am a high school student and back-end developer.
 - <p><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/typescript/typescript.png" alt="Typescript"> Typescript (beginner)</p>
 
 
-#### 🌱 **I’m currently learning ...**
+#### **I’m currently learning ...**
 - object oriented programming
 - concurrency programming
+
+#### **Contacts**
+- Facebook: [Euiseo Cha](https://www.facebook.com/zeroday0619/)
 
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
 
