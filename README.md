@@ -19,6 +19,7 @@ I am a high school student and back-end developer.
 
 #### 🌐 **Contacts**
 - Facebook: [Euiseo Cha](https://www.facebook.com/zeroday0619/)
+- Linked**in**: [Euiseo Cha](https://www.linkedin.com/in/euiseo-cha-870585189)
 
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
 
