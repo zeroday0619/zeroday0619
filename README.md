@@ -6,7 +6,7 @@
 I am a high school student and back-end developer.
 
 
-#### <img height="30" src="https://thumbnail.imgbin.com/15/5/11/imgbin-laptop-icon-laptop-Tx2G660m9zehvVGFLe0jdP7bw_t.jpg" alt="labtop"> **Languages**:
+#### **Languages**:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/typescript/typescript.png" alt="Typescript"></code>
