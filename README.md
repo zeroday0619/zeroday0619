@@ -5,13 +5,9 @@
 
 I am a high school student and back-end developer.
 
----
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
 
----
-
 ### :computer: **Languages**:
-
 ![Python(advanced)](https://img.shields.io/badge/Python-advanced-lightgrey?style=for-the-badge&logo=python)
 ![.NET (intermediate)](https://img.shields.io/badge/.NET-intermediate-lightgrey?style=for-the-badge&logo=.Net)
 ![Typescript (beginner)](https://img.shields.io/badge/Typescript-beginner-lightgrey?style=for-the-badge&logo=typescript)
