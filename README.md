@@ -5,25 +5,28 @@
 
 I am a high school student and back-end developer.
 
+---
+[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
 
-#### :computer: **Languages**:
+---
 
-- <p><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"> Python (advanced)</p>
-- <p><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt=".NET"> C# (intermediate)</p>
-- <p><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/typescript/typescript.png" alt="Typescript"> Typescript (beginner)</p>
+### :computer: **Languages**:
 
+![Python(advanced)](https://img.shields.io/badge/Python-advanced-lightgrey?style=for-the-badge&logo=python)
+![.NET (intermediate)](https://img.shields.io/badge/.NET-intermediate-lightgrey?style=for-the-badge&logo=.Net)
+![Typescript (beginner)](https://img.shields.io/badge/Typescript-beginner-lightgrey?style=for-the-badge&logo=typescript)
 
-#### 🌱 **I’m currently learning ...**
+### 🌱 **I’m currently learning ...**
 - object oriented programming
 - concurrency programming
 
-#### 🌐 **Contacts**
-- Facebook: [Euiseo Cha](https://www.facebook.com/zeroday0619/)
-- Linked**in**: [Euiseo Cha](https://www.linkedin.com/in/euiseo-cha-870585189)
-- Keybase: [zeroday0619](https://keybase.io/zeroday0619)
-- Twitch: [zeroday0619](https://www.twitch.tv/zeroday0619)
+### 🌐 **Contacts**
+[![Facebook](https://img.shields.io/badge/Facebook-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=facebook)](https://www.facebook.com/zeroday0619/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/euiseo-cha-870585189)
 
-[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
+[![Keybase](https://img.shields.io/badge/Keybase-zeroday0619-lightgrey?style=for-the-badge&logo=keybase)](https://keybase.io/zeroday0619)
+[![Twitch](https://img.shields.io/badge/Twitch-zeroday0619-lightgrey?style=for-the-badge&logo=twitch)](https://www.twitch.tv/zeroday0619)
+
 
 <!--
 **zeroday0619/zeroday0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
