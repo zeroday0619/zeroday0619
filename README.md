@@ -24,7 +24,7 @@ I am currently a student at Kyung Hee High School and also a back-end developer.
 ## 🔑 My GPG Public Key
 [![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-2DB5DF6978DE9BFB4654274BB6E66720C73BE89F-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/2DB5DF6978DE9BFB4654274BB6E66720C73BE89F)
 
-You can receive my GPG public key by clicking the badge above or
+You can receive my GPG public key by clicking the badge above or [here](https://keys.openpgp.org/vks/v1/by-fingerprint/2DB5DF6978DE9BFB4654274BB6E66720C73BE89F)
 
 
 ## 🌐 **Contacts**
