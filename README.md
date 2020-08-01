@@ -1,4 +1,4 @@
-## Hello 👋, Welcome to my Github profile!
+## Hi 👋, Welcome to my Github profile!
 Hi, My name is **Euiseo Cha**. also known as **zeroday0619**.
 
 I am currently a student at Kyung Hee High School and also a back-end developer.
