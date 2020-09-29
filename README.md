@@ -12,7 +12,7 @@ I am currently a student at Kyung Hee High School and also a back-end developer.
 ![Python (advanced)](https://img.shields.io/badge/Python-advanced-green?style=for-the-badge&logo=python)
 
 ### **intermediate**
-
+![Java (intermediate)](https://img.shields.io/badge/java-intermediate-orange?style=for-the-badge&logo=java)
 
 ### **beginner**
 ![.NET Framework (intermediate)](https://img.shields.io/badge/.NET%20Framework-beginner-blue?style=for-the-badge&logo=.Net)
