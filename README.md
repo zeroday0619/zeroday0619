@@ -1,11 +1,11 @@
 ## Hi 👋, Welcome to my profile!
-Hi, My name is **Euiseo Cha**. also known as **zeroday0619**.
+Hi, My name is **Euiseo Cha**. also known as **Misaka Mikoto** or **zeroday0619**.
 
 I am currently a student at Kyung Hee High School and also a back-end developer.
 
 
 ## 📊 GitHub Stats
-[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
+[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=MisakaMikoto0502&show_icons=true&hide_border=true)](https://github.com/MisakaMikoto0502)
 
 ## 🖥️ Programming Languages
 ### **Advanced**
