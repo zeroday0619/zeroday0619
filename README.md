@@ -1,4 +1,6 @@
 ## Hi 👋, Welcome to my profile!
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
+
 Hi, My name is **Euiseo Cha**. also known as **Misaka Mikoto** or **zeroday0619**.
 
 I am currently a student at Kyung Hee High School and also a back-end developer.
