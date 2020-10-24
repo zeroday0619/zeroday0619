@@ -1,13 +1,12 @@
 ## 👋 Hi, Welcome to my profile!
 
 Hi, My name is **Euiseo Cha**. also known as **zeroday0619** or **Misaka Mikoto**.
-
+    
 ## 🙋 I am...
 * [Kyung Hee High School](http://www.kyungheeboy.hs.kr) 2nd grade student
 * Freelance backend developer
 
-  ### ☕ Buy me a coffee
-  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
+
 
 ## 📊 GitHub Stats
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=MisakaMikoto0502&show_icons=true&hide_border=true)](https://github.com/MisakaMikoto0502)
@@ -41,6 +40,10 @@ You can receive my GPG public key by clicking the badge above or [here](https://
 
 [![Keybase](https://img.shields.io/badge/Keybase-zeroday0619-lightgrey?style=for-the-badge&logo=keybase)](https://keybase.io/zeroday0619)
 [![Twitch](https://img.shields.io/badge/Twitch-zeroday0619-lightgrey?style=for-the-badge&logo=twitch)](https://www.twitch.tv/zeroday0619)
+
+
+## ☕ Buy me a coffee
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
 
 
 <!--
