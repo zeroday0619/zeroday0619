@@ -8,6 +8,8 @@ I am currently a student at Kyung Hee High School and also a back-end developer.
 
 ## 📊 GitHub Stats
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=MisakaMikoto0502&show_icons=true&hide_border=true)](https://github.com/MisakaMikoto0502)
+[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MisakaMikoto0502&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/MisakaMikoto0502)
+
 
 ## 🖥️ Programming Languages
 ### **Advanced**
