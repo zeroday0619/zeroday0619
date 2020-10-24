@@ -33,6 +33,9 @@ Hi, My name is **Euiseo Cha**. also known as **zeroday0619** or **Misaka Mikoto*
 
 You can receive my GPG public key by clicking the badge above or [here](https://keys.openpgp.org/vks/v1/by-fingerprint/2DB5DF6978DE9BFB4654274BB6E66720C73BE89F)
 
+## ☕ Buy me a coffee
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
+
 
 ## 🌐 **Contacts**
 [![Facebook](https://img.shields.io/badge/Facebook-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=facebook)](https://www.facebook.com/zeroday0619/)
@@ -40,9 +43,6 @@ You can receive my GPG public key by clicking the badge above or [here](https://
 [![Keybase](https://img.shields.io/badge/Keybase-zeroday0619-lightgrey?style=for-the-badge&logo=keybase)](https://keybase.io/zeroday0619)
 [![Twitch](https://img.shields.io/badge/Twitch-zeroday0619-lightgrey?style=for-the-badge&logo=twitch)](https://www.twitch.tv/zeroday0619)
 
-
-## ☕ Buy me a coffee
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
 
 
 <!--
