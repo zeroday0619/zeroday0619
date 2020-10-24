@@ -12,7 +12,6 @@ Hi, My name is **Euiseo Cha**. also known as **zeroday0619**.
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/zeroday0619)
 
-
 ## 🖥️ Programming Languages
 ### **Advanced**
 ![Python (advanced)](https://img.shields.io/badge/Python-advanced-green?style=for-the-badge&logo=python)
@@ -28,14 +27,13 @@ Hi, My name is **Euiseo Cha**. also known as **zeroday0619**.
 - object oriented programming
 - concurrency programming
 
+## ☕ Buy me a coffee
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
+
 ## 🔑 My GPG Public Key
 [![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-2DB5DF6978DE9BFB4654274BB6E66720C73BE89F-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/2DB5DF6978DE9BFB4654274BB6E66720C73BE89F)
 
 You can receive my GPG public key by clicking the badge above or [here](https://keys.openpgp.org/vks/v1/by-fingerprint/2DB5DF6978DE9BFB4654274BB6E66720C73BE89F)
-
-## ☕ Buy me a coffee
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
-
 
 ## 🌐 **Contacts**
 [![Facebook](https://img.shields.io/badge/Facebook-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=facebook)](https://www.facebook.com/zeroday0619/)
