@@ -1,10 +1,13 @@
-## Hi 👋, Welcome to my profile!
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
+## 👋 Hi, Welcome to my profile!
 
-Hi, My name is **Euiseo Cha**. also known as **Misaka Mikoto** or **zeroday0619**.
+Hi, My name is **Euiseo Cha**. also known as **zeroday0619** or **Misaka Mikoto**.
 
-I am currently a student at Kyung Hee High School and also a back-end developer.
+## 🙋 I am...
+* [Kyung Hee High School](http://www.kyungheeboy.hs.kr) 2nd grade student
+* Freelance backend developer
 
+  ### ☕ Buy me a coffee
+  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
 
 ## 📊 GitHub Stats
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=MisakaMikoto0502&show_icons=true&hide_border=true)](https://github.com/MisakaMikoto0502)
