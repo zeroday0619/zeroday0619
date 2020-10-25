@@ -7,6 +7,9 @@ Hi, My name is **Euiseo Cha**. also known as **zeroday0619**.
 * Freelance backend developer
 
 
+## 🌱 **I’m currently learning ...**
+- object oriented programming
+- concurrency programming
 
 ## 📊 GitHub Stats
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
@@ -22,10 +25,6 @@ Hi, My name is **Euiseo Cha**. also known as **zeroday0619**.
 ### **beginner**
 ![.NET Framework (intermediate)](https://img.shields.io/badge/.NET%20Framework-beginner-blue?style=for-the-badge&logo=.Net)
 ![Typescript (beginner)](https://img.shields.io/badge/Typescript-beginner-blue?style=for-the-badge&logo=typescript)
-
-## 🌱 **I’m currently learning ...**
-- object oriented programming
-- concurrency programming
 
 ## ☕ Buy me a coffee
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
