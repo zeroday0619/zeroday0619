@@ -20,7 +20,7 @@ Hi, My name is **Euiseo Cha**. also known as **zeroday0619**.
 ![Python (advanced)](https://img.shields.io/badge/Python-advanced-green?style=for-the-badge&logo=python)
 
 ### **intermediate**
-![Java (intermediate)](https://img.shields.io/badge/java-intermediate-orange?style=for-the-badge&logo=java)
+
 
 ### **beginner**
 ![.NET Framework (intermediate)](https://img.shields.io/badge/.NET%20Framework-beginner-blue?style=for-the-badge&logo=.Net)
