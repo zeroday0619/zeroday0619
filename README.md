@@ -14,7 +14,7 @@ Hi, My name is **Euiseo Cha**. also known as **zeroday0619**.
 ## 📊 GitHub Stats
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&count_private=true&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&exclude_repo=blog,blog.zeroday0619.dev&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8)](https://github.com/zeroday0619)
-[![zerodau0619's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeroday0619)](https://github.com/zeroday0619)
+
 ## 🖥️ Programming Languages
 ### **Advanced**
 ![Python (advanced)](https://img.shields.io/badge/Python-advanced-green?style=for-the-badge&logo=python)
