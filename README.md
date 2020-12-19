@@ -12,8 +12,8 @@ Hi, My name is **Euiseo Cha**. also known as **zeroday0619**.
 - concurrency programming
 
 ## 📊 GitHub Stats
-[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
-[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/zeroday0619)
+[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&count_private=true&show_icons=true&hide_border=true)](https://github.com/zeroday0619)
+[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&count_private=true&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/zeroday0619)
 
 ## 🖥️ Programming Languages
 ### **Advanced**
