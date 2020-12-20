@@ -16,7 +16,7 @@
 
 ## 🖥️ Programming Languages
 ### **Advanced**
-<img src="https://cloudflare-ipfs.com/ipfs/QmP5xNMrzPtn9N6Sk46G1KWHwF2ooSfakmpE8apW9Dvk4z" width="130">
+<img src="https://i.pinimg.com/564x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" width="130">
 
 ### **beginner**
 
