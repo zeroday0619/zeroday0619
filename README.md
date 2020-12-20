@@ -22,6 +22,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/912px-.NET_Logo.svg.png" width="90"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="90">
 
+## ☕ Buy me a coffee
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
+
 ## 🔑 My GPG Public Key
 [![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-2DB5DF6978DE9BFB4654274BB6E66720C73BE89F-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/2DB5DF6978DE9BFB4654274BB6E66720C73BE89F)
 
@@ -32,9 +35,6 @@ You can receive my GPG public key by clicking the badge above or [here](https://
 [![Linkedin](https://img.shields.io/badge/Linkedin-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/euiseo-cha-870585189)
 [![Keybase](https://img.shields.io/badge/Keybase-zeroday0619-lightgrey?style=for-the-badge&logo=keybase)](https://keybase.io/zeroday0619)
 [![Twitch](https://img.shields.io/badge/Twitch-zeroday0619-lightgrey?style=for-the-badge&logo=twitch)](https://www.twitch.tv/zeroday0619)
-
-## ☕ Buy me a coffee
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I02G9E1)
 
 <!--
 **zeroday0619/zeroday0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
