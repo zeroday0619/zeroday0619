@@ -16,7 +16,7 @@
 
 ## 🖥️ Programming Languages
 ### **Advanced**
-![Python (advanced)](https://img.shields.io/badge/Python-advanced-green?style=for-the-badge&logo=python)
+<img src="https://cloudflare-ipfs.com/ipfs/QmP5xNMrzPtn9N6Sk46G1KWHwF2ooSfakmpE8apW9Dvk4z" width="130">
 
 ### **beginner**
 ![.NET Framework (intermediate)](https://img.shields.io/badge/.NET%20Framework-beginner-blue?style=for-the-badge&logo=.Net)
