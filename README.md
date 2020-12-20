@@ -19,8 +19,8 @@
 <img src="https://cloudflare-ipfs.com/ipfs/QmP5xNMrzPtn9N6Sk46G1KWHwF2ooSfakmpE8apW9Dvk4z" width="130">
 
 ### **beginner**
-![.NET Framework (intermediate)](https://img.shields.io/badge/.NET%20Framework-beginner-blue?style=for-the-badge&logo=.Net)
-![Typescript (beginner)](https://img.shields.io/badge/Typescript-beginner-blue?style=for-the-badge&logo=typescript)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/912px-.NET_Logo.svg.png" width="130"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="130">
 
 ## 🔑 My GPG Public Key
 [![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-2DB5DF6978DE9BFB4654274BB6E66720C73BE89F-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/2DB5DF6978DE9BFB4654274BB6E66720C73BE89F)
