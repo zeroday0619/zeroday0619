@@ -8,7 +8,7 @@
 
 ## 🙋 I am...
 * [Kyung Hee High School](http://www.kyungheeboy.hs.kr) 2nd grade student
-* Freelance backend developer
+* ~~Freelance backend developer~~
 
 ## 🌱 **I’m currently learning ...**
 - object oriented programming
