@@ -16,11 +16,13 @@
 
 ## 🖥️ Programming Languages
 ### **Advanced**
-<img src="https://i.pinimg.com/564x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" width="90">
+<img src="https://i.pinimg.com/564x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" alt="Python" width="90">
+
+### **Intermediate**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" alt="Kotlin" width="90">
 
 ### **beginner**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/912px-.NET_Logo.svg.png" width="90"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/912px-.NET_Logo.svg.png" alt=".NET" width="90"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" width="90">
 
 ## 🔑 My GPG Public Key
 [![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-2DB5DF6978DE9BFB4654274BB6E66720C73BE89F-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/2DB5DF6978DE9BFB4654274BB6E66720C73BE89F)
