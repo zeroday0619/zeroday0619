@@ -15,7 +15,6 @@
   - object oriented programming in Python  
 - Modern Typescript programming language
 - Modern Kotlin programming language
-- Linux operating system
 
 
 ## 🖥️ Programming Languages
