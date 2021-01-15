@@ -10,8 +10,13 @@
 * [Kyung Hee High School](http://www.kyungheeboy.hs.kr) 2nd grade student
 
 ## 🌱 **I’m currently learning ...**
-- object oriented programming
-- concurrency programming
+- Modern Python programming language
+  - Asynchronous programming in Python
+  - object oriented programming in Python  
+- Modern Typescript programming language
+- Modern Kotlin programming language
+- Linux operating system
+
 
 ## 🖥️ Programming Languages
 ### **Advanced**
