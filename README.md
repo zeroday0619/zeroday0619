@@ -15,8 +15,6 @@ particularly interested in asynchronous and object oriented programming.
 
 ## 🌱 **I’m currently learning ...**
 - Modern Python programming language
-  - Asynchronous programming in Python
-  - object oriented programming in Python  
 - Modern Typescript programming language
 - Modern Kotlin programming language
 
