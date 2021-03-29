@@ -2,9 +2,7 @@
 
 👋 Hi, Welcome to my profile!
 
-interested in programming.
-
-particularly interested in asynchronous and object oriented programming.
+I am an 18-year-old Korean high school student and interested in Computer Science Engineering (CSE).
 
 ## 🙋 I am...
 * [Kyung Hee High School](http://www.kyungheeboy.hs.kr) 3nd grade student
@@ -15,6 +13,8 @@ particularly interested in asynchronous and object oriented programming.
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&exclude_repo=blog,blog.zeroday0619.dev,mbp16-ubuntu-kernel&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=radical&hide=ruby,html,css)](https://github.com/zeroday0619)
 
 ## 🌱 **I’m currently learning ...**
+- Data structure & Algorithm
+- Operating system
 - Modern Python programming language
 - Modern Typescript programming language
 - Modern Kotlin programming language
