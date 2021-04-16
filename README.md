@@ -31,9 +31,9 @@ I am an 18-year-old Korean high school student and interested in Computer Scienc
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/912px-.NET_Logo.svg.png" alt=".NET" width="90"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" width="90">
 -->
 ## 🔑 My GPG Public Key
-[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-2DB5DF6978DE9BFB4654274BB6E66720C73BE89F-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/2DB5DF6978DE9BFB4654274BB6E66720C73BE89F)
+[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-859F3915933721E13DE984C5498E827C3F71F246-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/859F3915933721E13DE984C5498E827C3F71F246)
 
-You can receive my GPG public key by clicking the badge above or [here](https://keys.openpgp.org/vks/v1/by-fingerprint/2DB5DF6978DE9BFB4654274BB6E66720C73BE89F)
+You can receive my GPG public key by clicking the badge above or [here](https://keys.openpgp.org/vks/v1/by-fingerprint/859F3915933721E13DE984C5498E827C3F71F246)
 
 ## 🌐 **Contacts**
 [![Facebook](https://img.shields.io/badge/Facebook-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=facebook)](https://www.facebook.com/zeroday0619/)
