@@ -2,7 +2,7 @@
 
 👋 Hi, Welcome to my profile!
 
-I am an 18-year-old Korean high school student and interested in Computer Science Engineering (CSE).
+I am an 19-year-old Korean high school student and interested in Computer Science & Engineering.
 
 ## 🙋 I am...
 * [Kyung Hee High School](http://www.kyungheeboy.hs.kr) 3nd grade student
