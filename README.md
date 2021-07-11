@@ -31,9 +31,9 @@ I am a high school student living in South Korea, and I am interested in compute
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/912px-.NET_Logo.svg.png" alt=".NET" width="90"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" width="90">
 -->
 ## 🔑 My GPG Public Key
-[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-859F3915933721E13DE984C5498E827C3F71F246-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/859F3915933721E13DE984C5498E827C3F71F246)
+[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-28E48D47AB608712B2F121FB60E1D46E4136AD74-green?style=for-the-badge)](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x28e48d47ab608712b2f121fb60e1d46e4136ad74)
 
-You can receive my GPG public key by clicking the badge above or [here](https://keys.openpgp.org/vks/v1/by-fingerprint/859F3915933721E13DE984C5498E827C3F71F246)
+You can receive my GPG public key by clicking the badge above or [here](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x28e48d47ab608712b2f121fb60e1d46e4136ad74)
 
 ## 🌐 **Contacts**
 [![Facebook](https://img.shields.io/badge/Facebook-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=facebook)](https://www.facebook.com/zeroday0619/)
