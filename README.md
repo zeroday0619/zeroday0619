@@ -15,9 +15,10 @@ I am a high school student living in South Korea, and I am interested in compute
 ## 🌱 **I’m currently learning ...**
 - Data structure & Algorithm
 - Operating system
-- Modern Python programming language
-- Modern Typescript programming language
-- Modern Kotlin programming language
+- Python programming language
+- Typescript programming language
+- Kotlin programming language
+- Rust programming language
 
 <!--
 ## 🖥️ Programming Languages
