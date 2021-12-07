@@ -37,7 +37,6 @@ You can receive my GPG public key by clicking the badge above or [here](https://
 
 ## 🌐 **Contacts**
 [![Facebook](https://img.shields.io/badge/Facebook-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=facebook)](https://www.facebook.com/zeroday0619/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/euiseo-cha-870585189)
 [![Keybase](https://img.shields.io/badge/Keybase-zeroday0619-lightgrey?style=for-the-badge&logo=keybase)](https://keybase.io/zeroday0619)
 [![Twitch](https://img.shields.io/badge/Twitch-zeroday0619-lightgrey?style=for-the-badge&logo=twitch)](https://www.twitch.tv/zeroday0619)
 
