@@ -2,11 +2,7 @@
 
 👋 Hi, Welcome to my profile!
 
-I am a high school student living in South Korea, and I am interested in computer science & engineering.
-
-## 🙋 I am...
-* [Kyung Hee High School](http://www.kyungheeboy.hs.kr) 3nd grade student
-
+I am a university student living in South Korea, and I am interested in computer science & engineering.
 
 ## 📊 GitHub Stats
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/zeroday0619)
