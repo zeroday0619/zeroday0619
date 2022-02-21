@@ -9,9 +9,9 @@ I am a university student living in South Korea, and I am interested in computer
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&exclude_repo=blog,blog.zeroday0619.dev,mbp16-ubuntu-kernel&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=radical&hide=ruby,html,css)](https://github.com/zeroday0619)
 
 ## 🔑 My GPG Public Key
-[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-28E48D47AB608712B2F121FB60E1D46E4136AD74-green?style=for-the-badge)](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x28e48d47ab608712b2f121fb60e1d46e4136ad74)
+[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-EC14F704E8C88C788750FD9E3DBC8C856049C3DA-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/EC14F704E8C88C788750FD9E3DBC8C856049C3DA)
 
-You can receive my GPG public key by clicking the badge above or [here](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x28e48d47ab608712b2f121fb60e1d46e4136ad74)
+You can receive my GPG public key by clicking the badge above or [here](https://keys.openpgp.org/vks/v1/by-fingerprint/EC14F704E8C88C788750FD9E3DBC8C856049C3DA)
 
 ## 🌐 **Contacts**
 [![Facebook](https://img.shields.io/badge/Facebook-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=facebook)](https://www.facebook.com/zeroday0619/)
