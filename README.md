@@ -8,6 +8,14 @@ I am a university student living in South Korea, and I am interested in computer
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/zeroday0619)
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&exclude_repo=blog,blog.zeroday0619.dev,mbp16-ubuntu-kernel&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=radical&hide=ruby,html,css)](https://github.com/zeroday0619)
 
+## 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Pythion-green?style=for-the-badge&logo=python)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
+
+## :memo: Framework
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+
 ## 🔑 My GPG Public Key
 [![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-EC14F704E8C88C788750FD9E3DBC8C856049C3DA-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/EC14F704E8C88C788750FD9E3DBC8C856049C3DA)
 
