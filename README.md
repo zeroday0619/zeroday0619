@@ -21,6 +21,7 @@ I am a university student living in South Korea, and I am interested in computer
 [![XenGarden](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenGarden)](https://github.com/Stella-IT/XenGarden)
 
 [![COVID-19API](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=COVID-19API)](https://github.com/zeroday0619/COVID-19API)
+[![pyspotify-uri](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=pyspotify-uri)](https://github.com/zeroday0619/pyspotify-uri)
 
 
 ## 🔑 My GPG Public Key
