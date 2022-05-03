@@ -16,6 +16,10 @@ I am a university student living in South Korea, and I am interested in computer
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
+## :memo: Project
+[![XenXenXenSe](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenXenXenSe)](https://github.com/Stella-IT/XenXenXenSe)
+[![XenGarden](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenGarden)](https://github.com/Stella-IT/XenGarden)
+
 ## 🔑 My GPG Public Key
 [![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-EC14F704E8C88C788750FD9E3DBC8C856049C3DA-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/EC14F704E8C88C788750FD9E3DBC8C856049C3DA)
 
