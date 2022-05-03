@@ -27,6 +27,8 @@ I am a university student living in South Korea, and I am interested in computer
 - [https://github.com/Netchive](https://github.com/Netchive)
 Video processing related projects
 
+- [https://github.com/net-choice](https://github.com/net-choice)
+A Minecraft Server
 
 ## 🔑 My GPG Public Key
 [![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-EC14F704E8C88C788750FD9E3DBC8C856049C3DA-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/EC14F704E8C88C788750FD9E3DBC8C856049C3DA)
