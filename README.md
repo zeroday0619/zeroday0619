@@ -17,6 +17,7 @@ I am a university student living in South Korea, and I am interested in computer
 ## :memo: Framework
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 
 ## :memo: Project
 [![XenXenXenSe](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenXenXenSe)](https://github.com/Stella-IT/XenXenXenSe)
