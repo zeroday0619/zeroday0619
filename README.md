@@ -23,6 +23,9 @@ I am a university student living in South Korea, and I am interested in computer
 [![COVID-19API](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=COVID-19API)](https://github.com/zeroday0619/COVID-19API)
 [![pyspotify-uri](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=pyspotify-uri)](https://github.com/zeroday0619/pyspotify-uri)
 
+[![kyungheelife dashboard client](https://github-readme-stats.vercel.app/api/pin/?username=kyungheelife&repo=dashboard)](https://github.com/kyungheelife/dashboard)
+
+
 ## 🔑 Private project
 - [https://github.com/Netchive](https://github.com/Netchive)
 Video processing related projects
