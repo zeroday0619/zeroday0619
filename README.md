@@ -30,13 +30,9 @@ I am a university student living in South Korea, and I am interested in computer
 [![kyungheelife dashboard client](https://github-readme-stats.vercel.app/api/pin/?username=kyungheelife&repo=dashboard)](https://github.com/kyungheelife/dashboard)
 [![SchoolDay](https://github-readme-stats.vercel.app/api/pin/?username=tokiwadai-middle-school&repo=SchoolDay)](https://github.com/tokiwadai-middle-school/SchoolDay)
 
-
-
-
 ## 🔑 Private project
 - [https://github.com/Netchive](https://github.com/Netchive)
 Video processing related projects
-
 - [https://github.com/net-choice](https://github.com/net-choice)
 A Minecraft Server
 
