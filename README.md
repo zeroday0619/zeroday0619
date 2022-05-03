@@ -9,8 +9,9 @@ I am a university student living in South Korea, and I am interested in computer
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&exclude_repo=blog,blog.zeroday0619.dev,mbp16-ubuntu-kernel&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=radical&hide=ruby,html,css)](https://github.com/zeroday0619)
 
 ## 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/Pythion-green?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Pythion-black?style=for-the-badge&logo=python)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin)
 
 ## :memo: Framework
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
