@@ -4,6 +4,7 @@
 
 I am a university student living in South Korea, and I am interested in computer science & engineering.
 
+- 2016 ~ 2019 Korea University Middle School
 - 2019 ~ 2022 Kyunghee High School
 - 2022 ~ <tr><tr> Wonkwang University
 
