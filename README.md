@@ -12,6 +12,7 @@ I am a university student living in South Korea, and I am interested in computer
 ![Python](https://img.shields.io/badge/Pythion-black?style=for-the-badge&logo=python)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin)
+![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go)
 
 ## :memo: Framework
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
@@ -25,6 +26,9 @@ I am a university student living in South Korea, and I am interested in computer
 [![pyspotify-uri](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=pyspotify-uri)](https://github.com/zeroday0619/pyspotify-uri)
 
 [![kyungheelife dashboard client](https://github-readme-stats.vercel.app/api/pin/?username=kyungheelife&repo=dashboard)](https://github.com/kyungheelife/dashboard)
+[![SchoolDay](https://github-readme-stats.vercel.app/api/pin/?username=tokiwadai-middle-school&repo=SchoolDay)](https://github.com/tokiwadai-middle-school/SchoolDay)
+
+
 
 
 ## 🔑 Private project
