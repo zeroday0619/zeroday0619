@@ -4,7 +4,7 @@
 
 I am a university student living in South Korea, and I am interested in computer science & engineering.
 
-2019 ~ 2022 Kyunghee High School
+2019 ~ 2022 Kyunghee High School \n
 2022 ~      Wonkwang University
 
 ## 📊 GitHub Stats
