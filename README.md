@@ -26,6 +26,11 @@ I am a university student living in South Korea, and I am interested in computer
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 ![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron)
 
+## 📝 Skills
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+
 ## :memo: Project
 
 ### [Stella-IT](https://opensource.stella-it.com) - Projects I participated in as a freelance developer
