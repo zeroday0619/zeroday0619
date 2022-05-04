@@ -16,6 +16,7 @@ I am a university student living in South Korea, and I am interested in computer
 ## 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Pythion-black?style=for-the-badge&logo=python)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-black?style=for-the-badge&logo=.Net)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin)
 ![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go)
 
