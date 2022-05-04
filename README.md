@@ -29,7 +29,7 @@ I am a university student living in South Korea, and I am interested in computer
 ## 📝 Skills
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
 ## :memo: Project
 
