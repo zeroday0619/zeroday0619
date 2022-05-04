@@ -26,14 +26,14 @@ I am a university student living in South Korea, and I am interested in computer
 ![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron)
 
 ## :memo: Project
-[![XenXenXenSe](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenXenXenSe)](https://github.com/Stella-IT/XenXenXenSe)
-[![XenGarden](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenGarden)](https://github.com/Stella-IT/XenGarden)
+[![XenXenXenSe](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenXenXenSe&theme=dark)](https://github.com/Stella-IT/XenXenXenSe)
+[![XenGarden](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenGarden&theme=dark)](https://github.com/Stella-IT/XenGarden)
 
-[![COVID-19API](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=COVID-19API)](https://github.com/zeroday0619/COVID-19API)
-[![pyspotify-uri](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=pyspotify-uri)](https://github.com/zeroday0619/pyspotify-uri)
+[![COVID-19API](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=COVID-19API&theme=dark)](https://github.com/zeroday0619/COVID-19API)
+[![pyspotify-uri](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=pyspotify-uri&theme=dark)](https://github.com/zeroday0619/pyspotify-uri)
 
-[![kyungheelife dashboard client](https://github-readme-stats.vercel.app/api/pin/?username=kyungheelife&repo=dashboard)](https://github.com/kyungheelife/dashboard)
-[![SchoolDay](https://github-readme-stats.vercel.app/api/pin/?username=tokiwadai-middle-school&repo=SchoolDay)](https://github.com/tokiwadai-middle-school/SchoolDay)
+[![kyungheelife dashboard client](https://github-readme-stats.vercel.app/api/pin/?username=kyungheelife&repo=dashboard&theme=dark)](https://github.com/kyungheelife/dashboard)
+[![SchoolDay](https://github-readme-stats.vercel.app/api/pin/?username=tokiwadai-middle-school&repo=SchoolDay&theme=dark)](https://github.com/tokiwadai-middle-school/SchoolDay)
 
 ## 🔑 Private project
 - [https://github.com/Netchive](https://github.com/Netchive)
