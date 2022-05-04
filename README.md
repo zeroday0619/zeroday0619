@@ -32,6 +32,8 @@ I am a university student living in South Korea, and I am interested in computer
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
 
 
 ## :memo: Project
