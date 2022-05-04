@@ -34,7 +34,6 @@ I am a university student living in South Korea, and I am interested in computer
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
 
-
 ## :memo: Project
 
 ### [Stella-IT](https://opensource.stella-it.com) - Projects I participated in as a freelance developer
@@ -66,5 +65,4 @@ You can receive my GPG public key by clicking the badge above or [here](https://
 
 ## 🌐 **Contacts**
 [![Facebook](https://img.shields.io/badge/Facebook-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=facebook)](https://www.facebook.com/zeroday0619/)
-[![Keybase](https://img.shields.io/badge/Keybase-zeroday0619-lightgrey?style=for-the-badge&logo=keybase)](https://keybase.io/zeroday0619)
 [![Twitch](https://img.shields.io/badge/Twitch-zeroday0619-lightgrey?style=for-the-badge&logo=twitch)](https://www.twitch.tv/zeroday0619)
