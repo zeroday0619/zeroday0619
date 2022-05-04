@@ -6,7 +6,7 @@ I am a university student living in South Korea, and I am interested in computer
 
 - 2016 ~ 2019 Korea University Middle School
 - 2019 ~ 2022 Kyunghee High School
-- 2022 ~ <tr><tr> Wonkwang University
+- 2022 ~ <tr><tr> Wonkwang University - Information & Communication Engineering
 
 ## 📊 GitHub Stats
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/zeroday0619)
