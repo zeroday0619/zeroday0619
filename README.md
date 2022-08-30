@@ -51,7 +51,7 @@ I am a university student living in South Korea, and I am interested in computer
 
 ---
 
-### Projects participated in as self-development activities
+### elf-development activities
 [![kyungheelife dashboard client](https://github-readme-stats.vercel.app/api/pin/?username=kyungheelife&repo=dashboard&theme=dark)](https://github.com/kyungheelife/dashboard)
 [![SchoolDay](https://github-readme-stats.vercel.app/api/pin/?username=tokiwadai-middle-school&repo=SchoolDay&theme=dark)](https://github.com/tokiwadai-middle-school/SchoolDay)
 
