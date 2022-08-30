@@ -39,7 +39,7 @@ I am a university student living in South Korea, and I am interested in computer
 
 ## :memo: Project
 
-### [Stella-IT](https://opensource.stella-it.com) - Projects I participated in as a freelance developer
+### [Stella-IT](https://opensource.stella-it.com) - Contribute project
 [![XenXenXenSe](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenXenXenSe&theme=dark)](https://github.com/Stella-IT/XenXenXenSe)
 [![XenGarden](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenGarden&theme=dark)](https://github.com/Stella-IT/XenGarden)
 
