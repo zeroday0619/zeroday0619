@@ -62,9 +62,9 @@ Video processing related projects
 A Minecraft Server
 
 ## 🔑 My GPG Public Key
-[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-EC14F704E8C88C788750FD9E3DBC8C856049C3DA-green?style=for-the-badge)](https://keys.openpgp.org/vks/v1/by-fingerprint/EC14F704E8C88C788750FD9E3DBC8C856049C3DA)
+[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-1CBA271BBA41437115A778E5220CC17AA79A0AEA-green?style=for-the-badge)](https://keyserver.ubuntu.com/pks/lookup?op=hget&search=b4a0d5ce4cb078752f8bb5b142685e8b)
 
-You can receive my GPG public key by clicking the badge above or [here](https://keys.openpgp.org/vks/v1/by-fingerprint/EC14F704E8C88C788750FD9E3DBC8C856049C3DA)
+You can receive my GPG public key by clicking the badge above or [here](https://keyserver.ubuntu.com/pks/lookup?op=hget&search=b4a0d5ce4cb078752f8bb5b142685e8b)
 
 ## 🌐 **Contacts**
 [![Facebook](https://img.shields.io/badge/Facebook-Euiseo%20Cha-lightgrey?style=for-the-badge&logo=facebook)](https://www.facebook.com/zeroday0619/)
