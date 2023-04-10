@@ -2,7 +2,7 @@
 
 👋 Hi, Welcome to my profile!
 
-I am a university student living in South Korea, and I am interested in computer science & engineering.
+I am a college student living in South Korea and I am interested in computer science and engineering.
 
 ## :school: Education
 - 2016 ~ 2019 [Korea University Middle School](https://koryo.sen.ms.kr)
