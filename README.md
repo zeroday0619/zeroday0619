@@ -39,23 +39,23 @@ I am a college student living in South Korea and I am interested in computer sci
 
 ## :memo: Project
 
-### [Stella-IT](https://opensource.stella-it.com) - Contribute project
+### [Stella-IT](https://opensource.stella-it.com) - Open Source Contribute project
 [![XenXenXenSe](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenXenXenSe&theme=dark)](https://github.com/Stella-IT/XenXenXenSe)
 [![XenGarden](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenGarden&theme=dark)](https://github.com/Stella-IT/XenGarden)
 
 ---
 
-### Personal project
+### Personal projects
 [![COVID-19API](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=COVID-19API&theme=dark)](https://github.com/zeroday0619/COVID-19API)
 [![pyspotify-uri](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=pyspotify-uri&theme=dark)](https://github.com/zeroday0619/pyspotify-uri)
 
 ---
 
-### Self-development activities
+### Team Projects
 [![kyungheelife dashboard client](https://github-readme-stats.vercel.app/api/pin/?username=kyungheelife&repo=dashboard&theme=dark)](https://github.com/kyungheelife/dashboard)
 [![SchoolDay](https://github-readme-stats.vercel.app/api/pin/?username=tokiwadai-middle-school&repo=SchoolDay&theme=dark)](https://github.com/tokiwadai-middle-school/SchoolDay)
 
-## 🔑 Private project
+## 🔑 Private Projects
 - [https://github.com/Netchive](https://github.com/Netchive)
 Video processing related projects
 - [https://github.com/net-choice](https://github.com/net-choice)
