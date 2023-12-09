@@ -39,13 +39,13 @@ I am a college student living in South Korea and I am interested in computer sci
 
 ## :memo: Project
 
-### [Stella-IT](https://opensource.stella-it.com) Open Source Contribute project
+### [Stella-IT](https://opensource.stella-it.com) Open Source Contribute Project
 [![XenXenXenSe](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenXenXenSe&theme=dark)](https://github.com/Stella-IT/XenXenXenSe)
 [![XenGarden](https://github-readme-stats.vercel.app/api/pin/?username=Stella-IT&repo=XenGarden&theme=dark)](https://github.com/Stella-IT/XenGarden)
 
 ---
 
-### Personal projects
+### Personal Projects
 [![COVID-19API](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=COVID-19API&theme=dark)](https://github.com/zeroday0619/COVID-19API)
 [![pyspotify-uri](https://github-readme-stats.vercel.app/api/pin/?username=zeroday0619&repo=pyspotify-uri&theme=dark)](https://github.com/zeroday0619/pyspotify-uri)
 
