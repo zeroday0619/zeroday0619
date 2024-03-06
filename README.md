@@ -12,7 +12,7 @@
 ---
 
 `📘 개발자 커뮤니티 활동`
-- 2023 [Ubuntu Korea Community](https://ubuntu-kr.org) Organizer
+- 2023 [Ubuntu Korea Community](https://disclosures.ubuntu-kr.org/organizers/gen7/) Organizer
 
 `🎬 팀 프로젝트 활동`
 
