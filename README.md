@@ -17,9 +17,11 @@
 `🎬 팀 프로젝트 활동`
 
 - (2020 ~ Now) Team [Netchive](https://github.com/Netchive)
-![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
-![Typescript](https://img.shields.io/badge/Typescript-black?style=flat&logo=typescript)
-![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust)
+  - Stack
+
+    ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+    ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
+    ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 
 ## 📊 GitHub Stats
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/zeroday0619)[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&exclude_repo=blog,blog.zeroday0619.dev,mbp16-ubuntu-kernel&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=dark&hide=ruby,html,css)](https://github.com/zeroday0619)
