@@ -12,7 +12,8 @@
 ---
 
 `📘 개발자 커뮤니티 활동`
-- 2023 [Ubuntu Korea Community](https://disclosures.ubuntu-kr.org/organizers/gen7/) Organizer
+- 2023 [Ubuntu Korea Community](https://disclosures.ubuntu-kr.org/organizers/gen7/) Organizer</img>
+![우분투 한국 커뮤니티](https://discourse.ubuntu-kr.org/uploads/default/original/2X/6/6b47ec9f7f7e25d4d3b29ad3ded0acc046b36e29.svg)
 
 `🎬 팀 프로젝트 활동`
 
@@ -26,5 +27,5 @@
 ## 📊 GitHub Stats
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/zeroday0619)[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&exclude_repo=blog,blog.zeroday0619.dev,mbp16-ubuntu-kernel&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=dark&hide=ruby,html,css)](https://github.com/zeroday0619)
 
-## 🔑 My GPG Public Key
+## 🔑 GPG Public Key
 [![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-1CBA271BBA41437115A778E5220CC17AA79A0AEA-green?style=for-the-badge)](https://pgp.zeroday0619.dev)
