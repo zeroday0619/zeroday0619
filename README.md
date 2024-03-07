@@ -19,10 +19,24 @@
 
 - (2020 ~ Now) Team [Netchive](https://github.com/Netchive)
   - Stack
+    * Language
 
-    ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-    ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
-    ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+      ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+      ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
+      ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+    
+    * Containerization platforms and virtualization tools
+
+      ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+
+    * Container orchestration or cluster management tools
+
+      ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes)
+
+    * Operating System
+
+      ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
+
 
 ## 📊 GitHub Stats
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/zeroday0619)[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&exclude_repo=blog,blog.zeroday0619.dev,mbp16-ubuntu-kernel&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=dark&hide=ruby,html,css)](https://github.com/zeroday0619)
