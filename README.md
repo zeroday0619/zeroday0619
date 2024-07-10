@@ -48,4 +48,4 @@
 [![zeroday0619's github stats](https://github-readme-stats.vercel.app/api?username=zeroday0619&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/zeroday0619)[![zeroday0619's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroday0619&exclude_repo=blog,blog.zeroday0619.dev,mbp16-ubuntu-kernel&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=dark&hide=ruby,html,css)](https://github.com/zeroday0619)
 
 ## 🔑 GPG Public Key
-[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-1CBA271BBA41437115A778E5220CC17AA79A0AEA-green?style=for-the-badge)](https://pgp.zeroday0619.dev)
+[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-55A5EA46C60A959E75119B4F39F74FF9CEA87CC9-green?style=for-the-badge)](https://pgp.zeroday0619.dev)
