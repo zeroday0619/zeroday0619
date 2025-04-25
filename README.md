@@ -7,7 +7,7 @@
 > 💻 경희고등학교 프로그래밍 동아리 (ProBG)
 
 `🏫 원광대학교 정보통신공학과`
-> Information and Communication Engineering Undergraduate at Wonkwang University (2022.03 ~ 재학중, 2학년)
+> Information and Communication Engineering Undergraduate at Wonkwang University (2022.03 ~ 재학중, 3학년)
 
 ---
 
