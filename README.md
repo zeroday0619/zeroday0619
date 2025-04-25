@@ -23,8 +23,7 @@
 
       ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
       ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
-      ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
-    
+          
     * Containerization platforms and virtualization tools
 
       ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
