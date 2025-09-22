@@ -1,6 +1,8 @@
 # Euiseo Cha (zeroday0619 / 佐天 ゆうり)
 
 ## About Me
+* Python Software Engineer
+* [Ubuntu Member](https://wiki.ubuntu.com/Membership)
 * Ubuntu Korea Community - Community Moderation Team (Forum Moderator)
 
 [![Recommendation](https://referral.akaiaoon.dev/u/zeroday0619?v=3)](https://referral.akaiaoon.dev)
