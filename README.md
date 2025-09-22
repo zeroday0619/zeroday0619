@@ -5,7 +5,7 @@
 * [Ubuntu Member](https://wiki.ubuntu.com/Membership)
 * Ubuntu Korea Community - Community Moderation Team ([Forum Moderator](https://disclosures.ubuntu-kr.org/organizers/gen7/))
 
-[![Recommendation](https://referral.akaiaoon.dev/u/zeroday0619?v=3)](https://referral.akaiaoon.dev)
+[![Recommendation](https://referral.akaiaoon.dev/u/zeroday0619?v=5)](https://referral.akaiaoon.dev)
 
 ## Contact
 [bio.ubuntu-kr.org/u/escha](https://bio.ubuntu-kr.org/u/escha)
