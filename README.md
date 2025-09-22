@@ -1,5 +1,10 @@
 # Euiseo Cha (zeroday0619 / 佐天 ゆうり)
 
+## About Me
+* Ubuntu Korea Community - Community Moderation Team (Forum Moderator)
+
+[![Recommendation](https://referral.akaiaoon.dev/u/zeroday0619?v=3)](https://referral.akaiaoon.dev)
+
 ## Contact
 [bio.ubuntu-kr.org/u/escha](https://bio.ubuntu-kr.org/u/escha)
 
