@@ -2,10 +2,15 @@
 
 ## About Me
 * Python Software Engineer
-* [Ubuntu Member](https://wiki.ubuntu.com/Membership)
-* Ubuntu Korea Community - Community Moderation Team ([Forum Moderator](https://disclosures.ubuntu-kr.org/organizers/gen7/))
 
 [![Recommendation](https://referral.akaiaoon.dev/u/zeroday0619?v=5)](https://referral.akaiaoon.dev)
+
+### Extra-curricular activities
+* [Ubuntu Member](https://wiki.ubuntu.com/Membership)
+* Ubuntu Korea Community - Community Moderation Team ([Forum Moderator](https://disclosures.ubuntu-kr.org/organizers/gen7/))
+* UbuCon Korea 2025 Organizer
+* MiniDebConf Busan 2025 Team
+  
 
 ## Other platform 
 [Gitlab (debian.org)](https://salsa.debian.org/zeroday0619)
