@@ -7,6 +7,9 @@
 
 [![Recommendation](https://referral.akaiaoon.dev/u/zeroday0619?v=5)](https://referral.akaiaoon.dev)
 
+## Other platform 
+[Gitlab (debian.org)](https://salsa.debian.org/zeroday0619)
+
 ## Contact
 [bio.ubuntu-kr.org/u/escha](https://bio.ubuntu-kr.org/u/escha)
 
