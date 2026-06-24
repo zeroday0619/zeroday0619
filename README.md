@@ -3,8 +3,6 @@
 ## About Me
 * Python Software Engineer
 
-[![Recommendation](https://referral.akaiaoon.dev/u/zeroday0619?v=5)](https://referral.akaiaoon.dev)
-
 ### Extra-curricular activities
 * [Ubuntu Member](https://wiki.ubuntu.com/Membership)
 * Ubuntu Korea Community - Community Moderation Team ([Forum Moderator](https://disclosures.ubuntu-kr.org/organizers/gen7/))
