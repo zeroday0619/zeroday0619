@@ -2,6 +2,7 @@
 
 ## About Me
 * Python Software Engineer
+* Infra Engineer
 
 ## Work Experience
 ### Korea Institute of Science and Technology Information (KISTI)
