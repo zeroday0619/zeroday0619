@@ -8,7 +8,7 @@
 ### Korea Institute of Science and Technology Information (KISTI)
 - **Position:** Intern (Infrastructure / KREONET)
 - **Location:** Daejeon, South Korea
-- **Duration:** July 2026 – Present
+- **Duration:** July 2026 – Oct 2026
 
 ## Extra-curricular activities
 * [Ubuntu Member](https://wiki.ubuntu.com/Membership)
@@ -23,6 +23,9 @@
 
 ## Contact
 [bio.ubuntu-kr.org/u/escha](https://bio.ubuntu-kr.org/u/escha)
+
+## CV
+[cv.proxy.external.zeroday0619.dev](https://cv.proxy.external.zeroday0619.dev)
 
 ## GPG Public Key
 [![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-55A5EA46C60A959E75119B4F39F74FF9CEA87CC9-green?style=for-the-badge)](https://pgp.zeroday0619.dev)
