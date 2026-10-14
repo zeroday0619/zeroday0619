@@ -7,7 +7,7 @@
 ## Work Experience
 ### Korea Institute of Science and Technology Information ([@KISTI](https://github.com/KISTI))
 - **Position:** Intern (Infrastructure / [@KREONET](https://github.com/KREONET))
-- **Location:** Daejeon, South Korea
+- **Location:** Daejeon, Republic of Korea
 - **Duration:** July 2026 – Oct 2026
 
 ## Extra-curricular activities
